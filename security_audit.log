@@ -1,0 +1,11 @@
+2026-04-17 19:15:55 | user=admin | status=FAILURE | ip=1.1.1.1
+2026-04-17 19:28:27 | user=admin | status=FAILURE | ip=1.1.1.1
+2026-04-17 19:28:32 | user=admin | status=FAILURE | ip=1.1.1.1
+2026-04-17 19:28:34 | user=admin | status=FAILURE | ip=1.1.1.1
+2026-04-17 19:28:40 | user=admin | status=SUCCESS | ip=192.168.1.50
+2026-04-17 19:35:28 | user=admin | status=FAILURE | ip=1.1.1.1
+2026-04-17 19:35:33 | user=admin | status=FAILURE | ip=1.1.1.1
+2026-04-17 19:45:52 | user=admin | status=FAILURE | ip=1.1.1.1
+2026-04-17 19:45:57 | user=admin | status=FAILURE | ip=1.1.1.1
+2026-04-17 19:45:58 | user=admin | status=FAILURE | ip=1.1.1.1
+2026-04-17 19:45:59 | user=admin | status=FAILURE | ip=1.1.1.1
