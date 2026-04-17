@@ -34,7 +34,7 @@ The objective of this lab was to build a functional \*\*Security Operations Cent
 
 Below is the distribution of authentication attempts captured during the simulation:
 
-
+![My Splunk Dashboard](dashboard.jpeg)
 
 
 
