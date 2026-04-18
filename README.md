@@ -32,7 +32,7 @@ Windows Terminal: Where I spent way too much time debugging file paths!
 
 📊 Visualizing the Attack
 
-Below is pie chart is that shows the ratio of failed logins (the purple slices) versus the one time the "attacker" actually got in (the pink slice).
+Below is pie chart that shows the ratio of failed logins (the purple slices) versus the one time the "attacker" actually got in (the pink slice).
 
 ![My Splunk Dashboard](dashboard.jpeg)
 
